@@ -1,4 +1,4 @@
-"VertexlitGeneric"
+"VertexLitGeneric"
 {
 	"$basetexture"						"models/weapons/arccw/ur_spas12_new/fixedstock_c"
 	"$bumpmap"							"models/weapons/arccw/ur_spas12_new/fixedstock_n"
@@ -15,4 +15,5 @@
 	//"$phongexponent"					"110"
 	"$phongfresnelranges"				"[ 0.2 0.6 7]"
 
-$color2								"[2.2 2.2 2.2]"
+	$color2								"[2.2 2.2 2.2]"
+}

@@ -23,4 +23,4 @@
 	"$rimmask"					"1" // bool -- rimlight masking through exponent's alpha channel (use alpha vtf format)
 	"$rimlightboost"			"0.6" // float -- rimlight intensity coefficient
 	"$rimlightexponent"			"53" // float -- rimlight exponent
-
+}
