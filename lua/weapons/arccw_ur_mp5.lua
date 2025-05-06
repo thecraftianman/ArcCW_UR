@@ -17,7 +17,7 @@ SWEP.ShellSounds = ArcCW.PistolShellSoundsTable
 
 SWEP.MuzzleEffectAttachment = 1
 SWEP.CaseEffectAttachment = 2
--- SWEP.CamAttachment = 3 ---------------------------------------------------------------------------
+SWEP.CamAttachment = 3
 -- SWEP.TracerNum = 1
 -- SWEP.TracerCol = Color(25, 255, 25)
 -- SWEP.TracerWidth = 2

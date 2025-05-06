@@ -330,7 +330,7 @@ SWEP.AttachmentElements = {
     ["ur_deagle_skin_modern"] = {
         VMBodygroups = {{ind = 0, bg = 1}},
         VMSkin = 3,
-    },    
+    },
     ["ur_deagle_skin_sex"] = {
         VMBodygroups = {{ind = 0, bg = 1}},
         VMSkin = 4,
@@ -419,7 +419,7 @@ SWEP.Animations = {
             { s = path .. "chamber.ogg", t = 20 / 60, c = ca },
         },
     },
-	
+
     ["draw"] = {
         Source = "draw",
         SoundTable = {
@@ -792,8 +792,8 @@ SWEP.Attachments = {
         },
         InstalledEles = {"nofh"},
         ExcludeFlags = {"barrel_annihilator"},
-		Hidden = true,
-		Integral = true,
+        Hidden = true,
+        Integral = true,
     },
     {
         PrintName = "Tactical",
