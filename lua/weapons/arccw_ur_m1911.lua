@@ -789,10 +789,10 @@ SWEP.Attachments = {
         PrintName = "Muzzle",
         DefaultAttName = "Standard Muzzle",
         Slot = {"muzzle"},
-        Bone = "vm_barrel",
+        Bone = "vm_pivot",
         Offset = {
-            vpos = Vector(0.02, -4.4, 0.12),
-            vang = Angle(0, 90, 0),
+            vpos = Vector(0, -1.4, 5.62),
+            vang = Angle(90, 0, 90),
         },
         InstalledEles = {"nofh"},
         ExcludeFlags = {"barrel_annihilator"},
